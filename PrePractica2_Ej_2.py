@@ -4,4 +4,24 @@
 
 #INICIO
 
+
+
+from __future__ import division
+
+
+numeros=input
+
+lista =[]
+print("ingrese un numero entero")
+
+if  lista = division (numeros,2)== 0:
+ print("el numero es par")
+else
+numeros != 0:
+print("el numero es impar")
+
+
+
+
+
 #FIN

@@ -5,4 +5,17 @@
 #INICIO
 
 
+
+
+numbers=input
+
+
+lista=[numbers]
+print("ingrese un numero distinto de 0")
+
+max = (numbers)
+print (lista)
+
+
+
 #FIN
